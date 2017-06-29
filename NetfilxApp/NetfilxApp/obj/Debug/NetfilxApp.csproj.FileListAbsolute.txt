@@ -1,0 +1,32 @@
+C:\Users\Jun\Desktop\UIC\17 Spring\341\Project07\NetfilxApp\NetfilxApp\bin\Debug\NetfilxApp.exe.config
+C:\Users\Jun\Desktop\UIC\17 Spring\341\Project07\NetfilxApp\NetfilxApp\bin\Debug\NetfilxApp.exe
+C:\Users\Jun\Desktop\UIC\17 Spring\341\Project07\NetfilxApp\NetfilxApp\bin\Debug\NetfilxApp.pdb
+C:\Users\Jun\Desktop\UIC\17 Spring\341\Project07\NetfilxApp\NetfilxApp\obj\Debug\NetfilxApp.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Desktop\UIC\17 Spring\341\Project07\NetfilxApp\NetfilxApp\obj\Debug\NetfilxApp.Form1.resources
+C:\Users\Jun\Desktop\UIC\17 Spring\341\Project07\NetfilxApp\NetfilxApp\obj\Debug\NetfilxApp.Properties.Resources.resources
+C:\Users\Jun\Desktop\UIC\17 Spring\341\Project07\NetfilxApp\NetfilxApp\obj\Debug\NetfilxApp.csproj.GenerateResource.Cache
+C:\Users\Jun\Desktop\UIC\17 Spring\341\Project07\NetfilxApp\NetfilxApp\obj\Debug\NetfilxApp.exe
+C:\Users\Jun\Desktop\UIC\17 Spring\341\Project07\NetfilxApp\NetfilxApp\obj\Debug\NetfilxApp.pdb
+C:\Users\Jun\Desktop\UIC\17 Spring\341\Project08\NetfilxApp\NetfilxApp\bin\Debug\NetfilxApp.exe.config
+C:\Users\Jun\Desktop\UIC\17 Spring\341\Project08\NetfilxApp\NetfilxApp\obj\Debug\NetfilxApp.exe
+C:\Users\Jun\Desktop\UIC\17 Spring\341\Project08\NetfilxApp\NetfilxApp\obj\Debug\NetfilxApp.pdb
+C:\Users\Jun\Desktop\UIC\17 Spring\341\Project08\NetfilxApp\NetfilxApp\bin\Debug\NetfilxApp.exe
+C:\Users\Jun\Desktop\UIC\17 Spring\341\Project08\NetfilxApp\NetfilxApp\bin\Debug\NetfilxApp.pdb
+C:\Users\Jun\Desktop\UIC\17 Spring\341\Project08\NetfilxApp\NetfilxApp\obj\Debug\NetfilxApp.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Desktop\UIC\17 Spring\341\Project08\NetfilxApp\NetfilxApp\obj\Debug\NetfilxApp.Form1.resources
+C:\Users\Jun\Desktop\UIC\17 Spring\341\Project08\NetfilxApp\NetfilxApp\obj\Debug\NetfilxApp.Properties.Resources.resources
+C:\Users\Jun\Desktop\UIC\17 Spring\341\Project08\NetfilxApp\NetfilxApp\obj\Debug\NetfilxApp.csproj.GenerateResource.Cache
+C:\Users\Jun\Desktop\UIC\17 Spring\341\Project08\NetfilxApp\NetfilxApp\obj\Debug\NetfilxApp.SubForm.resources
+C:\Users\Jun\Desktop\UIC\Spring17\341\Project08\NetfilxApp\NetfilxApp\bin\Debug\NetfilxApp.exe.config
+C:\Users\Jun\Desktop\UIC\Spring17\341\Project08\NetfilxApp\NetfilxApp\obj\Debug\NetfilxApp.exe
+C:\Users\Jun\Desktop\UIC\Spring17\341\Project08\NetfilxApp\NetfilxApp\obj\Debug\NetfilxApp.pdb
+C:\Users\Jun\Desktop\UIC\Spring17\341\Project08\NetfilxApp\NetfilxApp\bin\Debug\NetfilxApp.exe
+C:\Users\Jun\Desktop\UIC\Spring17\341\Project08\NetfilxApp\NetfilxApp\bin\Debug\NetfilxApp.pdb
+C:\Users\Jun\Desktop\UIC\Spring17\341\Project08\NetfilxApp\NetfilxApp\obj\Debug\NetfilxApp.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Desktop\UIC\Spring17\341\Project08\NetfilxApp\NetfilxApp\obj\Debug\NetfilxApp.Form1.resources
+C:\Users\Jun\Desktop\UIC\Spring17\341\Project08\NetfilxApp\NetfilxApp\obj\Debug\NetfilxApp.Properties.Resources.resources
+C:\Users\Jun\Desktop\UIC\Spring17\341\Project08\NetfilxApp\NetfilxApp\obj\Debug\NetfilxApp.SubForm.resources
+C:\Users\Jun\Desktop\UIC\Spring17\341\Project08\NetfilxApp\NetfilxApp\obj\Debug\NetfilxApp.csproj.GenerateResource.Cache
+C:\Users\Jun\Desktop\UIC\Git Repo\NetfilxApp\NetfilxApp\bin\Debug\NetfilxApp.exe.config
+C:\Users\Jun\Desktop\UIC\Git Repo\NetfilxApp\NetfilxApp\obj\Debug\NetfilxApp.exe
+C:\Users\Jun\Desktop\UIC\Git Repo\NetfilxApp\NetfilxApp\obj\Debug\NetfilxApp.pdb
